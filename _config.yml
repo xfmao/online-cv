@@ -1,5 +1,5 @@
 # Site Settings
-title: My Resume
+title: Xiaofeng Mao
 url: 'http://webjeda.com'
 baseurl: '/online-cv' #change it according to your repository name
 
@@ -11,21 +11,16 @@ baseurl: '/online-cv' #change it according to your repository name
 #style: styles-6
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
+name: 毛潇锋
+tagline: Postgraduate Student
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'My research interest focuses on visual domain adaptation (transfer learning) and visual object tracking in computer vision. Currently, I mainly work on using deep learning models to solve the traditional problem of image processing. I also focus on cutting-edge research in the field of image synthesis, including generative adversarial networks (GANs) and image style transfer. More research details, please refer to <a href="https://www.zhihu.com/people/mao-xiao-feng-29-7/activities">My Zhihu Link</a>.'
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: hzmaoxiaofeng@163.com
+phone: 188 0462 1729
+website: blog.csdn.net/mao_xiao_feng #do not add http://
+github: github.com/xfmao
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker

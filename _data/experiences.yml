@@ -1,28 +1,10 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Student Intern
+  time: 2017.5 - 2017.8
+  company: Institute of computing technology, Chinese Academy of Sciences, Beijing
+  details: "I worked as an intern in Key Lab of Intell. Info. Process, Institude of Computing Technology, CAS for three months. During my internship, I improved the unpaired image-to-image translation algorithm and incorporated it into the area of unsupervised domain adaptation. I finished the draft of my first paper, and now it has been submitted to Neurocomputing for reviewing."
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
-- experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Embedded Linux Engineers
+  time: 2016.6 - 2016.9
+  company: Dahua Technology Inc., Hangzhou
+  details: "In the summer I graduated from Northeastern University, I completed a three-month internship in Dahua Technology Inc. My main job is to help improve the system of digital hard disk video recorder. During that time, I improved my proficiency in using the Linux system, which gave me a lot of help in my subsequent studies."
