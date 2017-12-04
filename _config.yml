@@ -14,7 +14,7 @@ baseurl: '/online-cv' #change it according to your repository name
 name: 毛潇锋
 tagline: Postgraduate Student
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'My research interest focuses on domain adaptation (transfer learning) and object tracking in computer vision. Currently, I am working on themal infrared object tracking problem and prepare for a international conference submitting next year. I also focus on cutting-edge research in the field of image synthesis, including generative adversarial networks (GANs) and image style transfer. More research details, please refer to <a href="https://www.zhihu.com/people/mao-xiao-feng-29-7/activities">My Zhihu Link</a>.'
+summary: 'My research interest focuses on domain adaptation (transfer learning) and object tracking in computer vision. Currently, I am working on themal infrared object tracking problem and prepare for an international conference submitting next year. I also focus on cutting-edge research in the field of image synthesis, including generative adversarial networks (GANs) and image style transfer. More research details, please refer to <a href="https://www.zhihu.com/people/mao-xiao-feng-29-7/activities">My Zhihu Link</a>.'
 
 #sidebar links
 email: hzmaoxiaofeng@163.com
