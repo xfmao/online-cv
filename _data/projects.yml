@@ -3,13 +3,18 @@
 
 - project:
   title: Visual_Tracking_api
-  link: "https://github.com/xfmao/Visual_Tracking_api"
+  link: "https://github.com/vtddggg/Visual_Tracking_api"
   tagline: "This is the open source repository for object tracking on Github, which contains the implementation and tutorial of various famous tracking algorithms coded with Python. Currently, the project is maintained and updated by myself."
 - project:
   title: ATDA
-  link: "https://github.com/xfmao/ATDA"
+  link: "https://github.com/vtddggg/ATDA"
   tagline: "When doing research in the field of transfer learning, I implemented some of the recently proposed algorithms, and opened source some of the implementation, This is the implement of Asymmetric Tri-training for Unsupervised Domain Adaptation."
 - project:
   title: Label_instructed_cross-domain_image_generation
-  link: "https://github.com/xfmao/Label_instructed_cross-domain_image_generation"
-  tagline: "This repository is the source code of my under review paper finished during internship in Institute of computing technology, CAS."
+  link: "https://github.com/vtddggg/Label_instructed_cross-domain_image_generation"
+  tagline: "The open source implementation of the accepted paper, which can be used for unsupervised cross domain image generation (no regular maintenance, possibly incompatible problems)."
+- project:
+  title: Adapted_TIRtracking
+  link: "https://github.com/vtddggg/Adapted_TIRtracking"
+  tagline: "The underway work of themal infrared tracking"
+  

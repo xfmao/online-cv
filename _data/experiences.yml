@@ -1,8 +1,8 @@
 - experience:
   role: Student Intern
-  time: 2017.5 - 2017.8
+  time: 2017.5 - Now
   company: Institute of computing technology, Chinese Academy of Sciences, Beijing
-  details: "I worked as an intern in Key Lab of Intell. Info. Process, Institude of Computing Technology, CAS for three months. During my internship, I improved the unpaired image-to-image translation algorithm and incorporated it into the area of unsupervised domain adaptation. I finished the draft of my first paper, and now it has been submitted to Neurocomputing for reviewing."
+  details: "I worked as an intern in Key Lab of Intell. Info. Process, Institude of Computing Technology, CAS. During my internship, I improved the unpaired image-to-image translation algorithm and incorporated it into the area of unsupervised domain adaptation. I proposed a image-to-image translation algorithm which takes into account the semantic information and neural attention. Now this work has been accepted for publishing in Neurocomputing."
 - experience:
   role: Embedded Linux Engineers
   time: 2016.6 - 2016.9
